@@ -322,7 +322,7 @@ Secure authentication achieved without storing AWS keys in GitHub.
 * GitHub password authentication is deprecated
 * SSH requires a key on the actual machine pushing
 * `authorized_keys` is for incoming SSH, not outgoing Git auth
-* Do not initialize GitHub repo with README when pushing existing history
+* Do not initialise GitHub repo with README when pushing existing history
 * OIDC removes need for AWS_ACCESS_KEY_ID secrets
 * Lock IAM trust policy to specific repo + branch
 * CI pipelines should use short-lived credentials
