@@ -197,6 +197,8 @@ Example:
 docker-workshop-node
 ```
 
+<img width="465" height="60" alt="• Successfully created private repository, docker-workshop-node" src="https://github.com/user-attachments/assets/7221eafa-d2d8-467c-ac05-c9320b60e7f8" />
+
 ---
 
 ## Step 11: Create GitHub OIDC Identity Provider (One-Time Setup)
@@ -282,6 +284,8 @@ Workflow handles:
 5. Push image to ECR
 
 Secure authentication achieved without storing AWS keys in GitHub.
+
+<img width="705" height="627" alt="Amazon Elastic" src="https://github.com/user-attachments/assets/96916b27-5b79-4b5e-84ee-4773ad701bcf" />
 
 ---
 
